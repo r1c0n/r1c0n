@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @OfficialB
 - 👀 I’m interested in learning & creating new things
 - 🌱 I’m currently learning JavaScript & PHP
+- 🌐 I'm a website creator
+- 📚 I know HTML, CSS, PHP, and JavaScript. I am still learning JavaScript and PHP.
 - 📫 Reach me by Discord, Official B#0001
 
 # Most of my repo's are private.
