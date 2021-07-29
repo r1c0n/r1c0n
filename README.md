@@ -6,6 +6,7 @@
 - 📫 Contact me by Discord, Official B#0001.
 
 # Most of my repo's are private.
+## https://www.bsite.wtf is my website.
 
 <!---
 OfficialB/OfficialB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
