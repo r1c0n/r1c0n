@@ -12,7 +12,7 @@ OfficialB/OfficialB is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[alt text](https://media.discordapp.net/attachments/875439238643068968/878785066489221150/b_sig.png)
+![alt text](https://media.discordapp.net/attachments/875439238643068968/878785066489221150/b_sig.png)
 
 https://bsite.wtf
 
