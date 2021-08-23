@@ -7,8 +7,15 @@
 
 # Most of my repo's are private.
 ## https://www.bsite.wtf is my website. --->
-![alt text](https://media.discordapp.net/attachments/875439238643068968/878785066489221150/b_sig.png)
 <!---
 OfficialB/OfficialB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[alt text](https://media.discordapp.net/attachments/875439238643068968/878785066489221150/b_sig.png)
+
+https://bsite.wtf
+
+https://yappers.xyz
+
+14, coder, gamer
