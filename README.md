@@ -20,7 +20,7 @@ I am 15.
 
 Web Developer in HTML, CSS, JavaScript & PHP.
 <hr>
-https://recon.best is my personal website, you can find my contact info there.
+https://recon.best is my personal website, you can find my contact info there. (Or you can just look at my lanyard)
 
 
 I own Hromi, a recreation of 2014 old ROBLOX.
