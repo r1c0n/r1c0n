@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/943239246288932874)](https://discord.com/users/943239246288932874)
 <hr>
-#About Me
+
+# About Me
 15
 
 Web Developer in HTML, CSS, JavaScript & PHP
