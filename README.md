@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/943239246288932874)](https://discord.com/users/943239246288932874)
- 
 <img src="https://github-readme-stats.vercel.app/api?username=officialb&show_icons=true&theme=dark&count_private=true">
 </p>
 <hr>
