@@ -24,8 +24,14 @@ You can click the Preview link to take a look at your changes.
 <hr>
 I am 15.
 
-Web Developer in HTML, CSS, JavaScript & PHP.
+Software & Web Developer
+
+<img src="https://img.shields.io/badge/Language-C%23-brightgreen">
+<img src="https://img.shields.io/badge/Language-C%2B%2B-critical">
+<img src="https://img.shields.io/badge/Language-HTML-red">
+<img src="https://img.shields.io/badge/Language-CSS-blue">
+<img src="https://img.shields.io/badge/Language-PHP-9cf">
 <hr>
-<a href="https://recon.best">This</a> is my personal website, you can find my contact info there.
+Find my contact information <a href="https://www.recon.best">here</a>.
 
 ![alt text](https://media.discordapp.net/attachments/875439238643068968/878785066489221150/b_sig.png)
