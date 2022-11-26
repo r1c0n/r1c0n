@@ -27,7 +27,6 @@ I am 15.
 Software & Web Developer
 
 <img src="https://img.shields.io/badge/Language-C%23-brightgreen">
-<img src="https://img.shields.io/badge/Language-C%2B%2B-critical">
 <img src="https://img.shields.io/badge/Language-HTML-red">
 <img src="https://img.shields.io/badge/Language-CSS-blue">
 <img src="https://img.shields.io/badge/Language-PHP-9cf">
