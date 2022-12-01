@@ -4,12 +4,12 @@
 Software & Web Developer.
 
 ![](github-metrics.svg)
-
+<!--
 <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue"> <img src="https://img.shields.io/badge/OS-Windows%2011-informational">
 <img src="https://img.shields.io/badge/Language-C%23-brightgreen">
 <img src="https://img.shields.io/badge/Language-HTML-red">
 <img src="https://img.shields.io/badge/Language-CSS-blue">
-<img src="https://img.shields.io/badge/Language-PHP-9cf">
+<img src="https://img.shields.io/badge/Language-PHP-9cf">-->
 <hr>
 Find my contact information <a href="https://www.recon.best">here</a>.
 
