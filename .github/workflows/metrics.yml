@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: OfficialB
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           plugin_isocalendar: yes
