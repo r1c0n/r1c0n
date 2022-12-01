@@ -3,8 +3,9 @@
 
 Software & Web Developer.
 
-<img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue">
-<img src="https://img.shields.io/badge/OS-Windows%2011-informational">
+![](github-metrics.svg)
+
+<img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue"> <img src="https://img.shields.io/badge/OS-Windows%2011-informational">
 <img src="https://img.shields.io/badge/Language-C%23-brightgreen">
 <img src="https://img.shields.io/badge/Language-HTML-red">
 <img src="https://img.shields.io/badge/Language-CSS-blue">
